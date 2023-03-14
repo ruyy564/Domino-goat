@@ -1,0 +1,76 @@
+D:\Balda\balda-game\BaldaGame\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Balda\balda-game\BaldaGame\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Balda\balda-game\BaldaGame\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Balda\balda-game\BaldaGame\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Balda\balda-game\BaldaGame\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Balda\balda-game\BaldaGame\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Balda\balda-game\BaldaGame\UnitTest\bin\Debug\UnitTest.dll
+D:\Balda\balda-game\BaldaGame\UnitTest\bin\Debug\UnitTest.pdb
+D:\Balda\balda-game\BaldaGame\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Balda\balda-game\BaldaGame\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Balda\balda-game\BaldaGame\UnitTest\bin\Debug\Model.dll
+D:\Balda\balda-game\BaldaGame\UnitTest\bin\Debug\Model.pdb
+D:\Balda\balda-game\BaldaGame\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Balda\balda-game\BaldaGame\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Balda\balda-game\BaldaGame\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+D:\Balda\balda-game\BaldaGame\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+D:\Balda\balda-game\BaldaGame\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+D:\Balda\balda-game\BaldaGame\UnitTest\obj\Debug\UnitTest.dll
+D:\Balda\balda-game\BaldaGame\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\bin\Debug\Model.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\bin\Debug\Model.pdb
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\bin\Debug\Model.dll
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\bin\Debug\Model.pdb
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\nikga\Desktop\balda-game-release\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\nikga\source\repos\Domino goat\UnitTest\obj\Debug\UnitTest.csprojAssemblyReference.cache
+C:\Users\nikga\source\repos\Domino goat\UnitTest\obj\Debug\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\nikga\source\repos\Domino goat\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\nikga\source\repos\Domino goat\UnitTest\obj\Debug\UnitTest.pdb
+C:\Users\nikga\source\repos\Domino goat\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\nikga\source\repos\Domino goat\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\nikga\source\repos\Domino goat\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\nikga\source\repos\Domino goat\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\nikga\source\repos\Domino goat\UnitTest\bin\Debug\Model.dll
+C:\Users\nikga\source\repos\Domino goat\UnitTest\bin\Debug\Model.pdb
+C:\Users\nikga\source\repos\Domino goat\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\nikga\source\repos\Domino goat\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\nikga\source\repos\Domino goat\UnitTest\obj\Debug\UnitTest.csproj.CopyComplete
+C:\Users\nikga\source\repos\Domino goat\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\nikga\source\repos\Domino goat\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\nikga\source\repos\Domino goat\UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\nikga\source\repos\Domino goat\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\nikga\source\repos\Domino goat\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\nikga\source\repos\Domino goat\UnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll

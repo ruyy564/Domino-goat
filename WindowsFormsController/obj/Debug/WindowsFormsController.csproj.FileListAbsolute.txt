@@ -1,0 +1,90 @@
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\obj\Debug\WindowsFormsController.csprojAssemblyReference.cache
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\obj\Debug\WindowsFormsController.Properties.Resources.resources
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.GenerateResource.cache
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.CoreCompileInputs.cache
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\bin\Debug\WindowsFormsController.dll
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\bin\Debug\WindowsFormsController.pdb
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\bin\Debug\Controller.dll
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\bin\Debug\Model.dll
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\bin\Debug\View.dll
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\bin\Debug\WindowsFormsView.dll
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\bin\Debug\Controller.pdb
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\bin\Debug\Model.pdb
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\bin\Debug\View.pdb
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\bin\Debug\WindowsFormsView.pdb
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\bin\Debug\WindowsFormsView.dll.config
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.CopyComplete
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\obj\Debug\WindowsFormsController.dll
+D:\Balda\balda-game\BaldaGame\WindowsFormsController\obj\Debug\WindowsFormsController.pdb
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.csprojAssemblyReference.cache
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.Properties.Resources.resources
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.GenerateResource.cache
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.CoreCompileInputs.cache
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.dll
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.pdb
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsController.dll
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsController.pdb
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\bin\Debug\Controller.dll
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\bin\Debug\Model.dll
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\bin\Debug\View.dll
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsView.dll
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\bin\Debug\Controller.pdb
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\bin\Debug\Model.pdb
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\bin\Debug\View.pdb
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsView.pdb
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsView.dll.config
+C:\Users\yegor\Downloads\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.CopyComplete
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsController.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsController.pdb
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\bin\Debug\Controller.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\bin\Debug\Model.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\bin\Debug\View.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsView.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\bin\Debug\Controller.pdb
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\bin\Debug\Model.pdb
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\bin\Debug\View.pdb
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsView.pdb
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsView.dll.config
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.csprojAssemblyReference.cache
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.Properties.Resources.resources
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.GenerateResource.cache
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.CoreCompileInputs.cache
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.CopyComplete
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.dll
+C:\Users\yegor\Downloads\balda-game-release (1)\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.pdb
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsController.dll
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsController.pdb
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\bin\Debug\Controller.dll
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\bin\Debug\Model.dll
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\bin\Debug\View.dll
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsView.dll
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\bin\Debug\Controller.pdb
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\bin\Debug\Model.pdb
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\bin\Debug\View.pdb
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsView.pdb
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\bin\Debug\WindowsFormsView.dll.config
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.csprojAssemblyReference.cache
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.Properties.Resources.resources
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.GenerateResource.cache
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.CoreCompileInputs.cache
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.CopyComplete
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.dll
+C:\Users\nikga\Desktop\balda-game-release\WindowsFormsController\obj\Debug\WindowsFormsController.pdb
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\obj\Debug\WindowsFormsController.csprojAssemblyReference.cache
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\obj\Debug\WindowsFormsController.Properties.Resources.resources
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.GenerateResource.cache
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.CoreCompileInputs.cache
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\obj\Debug\WindowsFormsController.dll
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\obj\Debug\WindowsFormsController.pdb
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\bin\Debug\WindowsFormsController.dll
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\bin\Debug\WindowsFormsController.pdb
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\bin\Debug\Controller.dll
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\bin\Debug\Model.dll
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\bin\Debug\View.dll
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\bin\Debug\WindowsFormsView.dll
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\bin\Debug\Controller.pdb
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\bin\Debug\Model.pdb
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\bin\Debug\View.pdb
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\bin\Debug\WindowsFormsView.pdb
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\bin\Debug\WindowsFormsView.dll.config
+C:\Users\nikga\source\repos\Domino goat\WindowsFormsController\obj\Debug\WindowsFormsController.csproj.CopyComplete

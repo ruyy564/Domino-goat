@@ -1,0 +1,13 @@
+C:\Users\nikga\source\repos\Domino goat\ConsoleView\bin\Debug\ConsoleView.dll
+C:\Users\nikga\source\repos\Domino goat\ConsoleView\bin\Debug\ConsoleView.pdb
+C:\Users\nikga\source\repos\Domino goat\ConsoleView\bin\Debug\Controller.dll
+C:\Users\nikga\source\repos\Domino goat\ConsoleView\bin\Debug\Model.dll
+C:\Users\nikga\source\repos\Domino goat\ConsoleView\bin\Debug\View.dll
+C:\Users\nikga\source\repos\Domino goat\ConsoleView\bin\Debug\Controller.pdb
+C:\Users\nikga\source\repos\Domino goat\ConsoleView\bin\Debug\Model.pdb
+C:\Users\nikga\source\repos\Domino goat\ConsoleView\bin\Debug\View.pdb
+C:\Users\nikga\source\repos\Domino goat\ConsoleView\obj\Debug\ConsoleView.csprojAssemblyReference.cache
+C:\Users\nikga\source\repos\Domino goat\ConsoleView\obj\Debug\ConsoleView.csproj.CoreCompileInputs.cache
+C:\Users\nikga\source\repos\Domino goat\ConsoleView\obj\Debug\ConsoleView.csproj.CopyComplete
+C:\Users\nikga\source\repos\Domino goat\ConsoleView\obj\Debug\ConsoleView.dll
+C:\Users\nikga\source\repos\Domino goat\ConsoleView\obj\Debug\ConsoleView.pdb

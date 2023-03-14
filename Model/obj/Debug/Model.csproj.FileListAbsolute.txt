@@ -1,0 +1,6 @@
+C:\Users\nikga\source\repos\Domino goat\Model\bin\Debug\Model.dll
+C:\Users\nikga\source\repos\Domino goat\Model\bin\Debug\Model.pdb
+C:\Users\nikga\source\repos\Domino goat\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\nikga\source\repos\Domino goat\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\nikga\source\repos\Domino goat\Model\obj\Debug\Model.dll
+C:\Users\nikga\source\repos\Domino goat\Model\obj\Debug\Model.pdb

@@ -1,0 +1,15 @@
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\obj\Debug\ConsoleController.csprojAssemblyReference.cache
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\obj\Debug\ConsoleController.csproj.CoreCompileInputs.cache
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\bin\Debug\ConsoleController.dll
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\bin\Debug\ConsoleController.pdb
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\bin\Debug\ConsoleView.dll
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\bin\Debug\Controller.dll
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\bin\Debug\Model.dll
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\bin\Debug\View.dll
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\bin\Debug\ConsoleView.pdb
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\bin\Debug\Controller.pdb
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\bin\Debug\Model.pdb
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\bin\Debug\View.pdb
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\obj\Debug\ConsoleController.csproj.CopyComplete
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\obj\Debug\ConsoleController.dll
+C:\Users\nikga\source\repos\Domino goat\ConsoleController\obj\Debug\ConsoleController.pdb
